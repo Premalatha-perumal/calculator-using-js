@@ -1,0 +1,44 @@
+.outputin {
+    margin-left: 3.5rem;
+}
+
+.cal {
+    justify-content: center;
+    display: flex;
+
+}
+
+.models {
+    margin-top: 3rem;
+}
+
+button {
+    margin-top: 3rem;
+    margin-left: 2rem;
+    height: 2rem;
+    width: 2rem;
+    border-color: navy;
+    color: maroon;
+}
+
+body {
+    background-image: linear-gradient(to right, skyblue, white);
+}
+
+h1 {
+    font-size: 50px;
+    font-family: Times new roman;
+    font-weight: bolder;
+    color: navy;
+}
+
+label {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    color: navy;
+
+}
+
+input {
+    border-color: navy;
+}
